@@ -1,10 +1,10 @@
 # BookRecommendation
-Data mining project: Book recommendation
+Data mining project:  Anass El Idrissi, Seddik Mekki and Tanguy Morelle
 
 This project uses the "Book-Crossing Dataset" from http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 
 ### Installation guide:
-* download Chrome driver and update its location in *Data Enrichment and Book Description Similarity* notebook.
+* download Chrome driver (here: http://chromedriver.chromium.org/downloads) and update its location in *Data Enrichment and Book Description Similarity* notebook.
 * Use this command to install the required librairies:
 ```
 pip install -r requirements.txt
