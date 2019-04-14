@@ -1,0 +1,10 @@
+selenium
+pandas
+numpy
+matplotlib
+tqdm
+regex
+beautifulsoup4
+seaborn
+scikit-learn
+scipy
